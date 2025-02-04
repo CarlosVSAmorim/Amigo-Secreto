@@ -9,4 +9,3 @@ Este é um simples jogo de Amigo Secreto (ou Amigo Oculto) desenvolvido em Java.
 - Adicionar nomes de participantes.
 - Armazenar os nomes em uma lista.
 - Realizar o sorteio aleatório dos amigos secretos.
-- Exibir os pares sorteados.
